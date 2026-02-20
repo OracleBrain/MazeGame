@@ -1,4 +1,4 @@
-# 🎮 Maze Game
+# 🎮 Maze GamE
 
 A simple 3D maze game built with Unity where you navigate a ball through a maze using physics-based controls.
 
