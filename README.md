@@ -55,7 +55,7 @@ MazeGame/
 │   ├── Material/       # Materials for visual appearance
 │   ├── Scenes/         # Game scenes
 │   │   └── SampleScene.unity
-│   └── Script/         # Game scripts
+│   └── Script/         # Game scriptS
 │       └── motion.cs   # Ball movement controller
 ├── Packages/           # Unity package dependencies
 ├── ProjectSettings/    # Unity project configuration
