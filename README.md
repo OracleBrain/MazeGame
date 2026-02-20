@@ -19,7 +19,7 @@ This is a classic ball-rolling maze game where players must guide a ball from st
 - [Unity Hub](https://unity.com/download) installed on your computer
 - Unity Editor version **2022.3.46f1** or compatible (2022.3.x LTS recommended)
 
-### Running the Game
+### Running the GamE
 
 1. **Clone or download** this repository to your local machine
 
